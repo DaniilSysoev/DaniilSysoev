@@ -21,7 +21,6 @@
     <hr>
     
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DaniilSysoev&theme=blood-dark&hide_border=true&border_radius=30&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniilSysoev&layout=compact)](https://github.com/DaniilSysoev/github-readme-stats)
 
 </div>
 
@@ -57,26 +56,32 @@
 
 <p>At my practice flow I also joined to Business in style.ru (student organization of web-developing) where also studied the web (front-end development)</p>
 
-<p>To sum up my main skills in one direction</p>
+
+<div align='center'>
+<h4>To sum up my main skills in one direction</h4>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniilSysoev&layout=compact)](https://github.com/DaniilSysoev/github-readme-stats)
+
+</div>
 <h3 align='center'>Where you can find me</h3>
 <hr>
 
-<a>sysoevdaniil@mail.ru</a>
+<p><a>sysoevdaniil@mail.ru</a> | <a href='https://t.me/dmsysoev'>Telegram</a> | <a href='https://hh.ru/resume/14eb42c6ff0adf33a50039ed1f3577587a5644'>HeadHunter</a> | <a href='https://drive.google.com/file/d/1VKneNGz1zysfCD9-R3RdehRKb5_MXtqG/view?usp=share_link'>CV</a> | <a>dmsysoev@edu.hse.ru</a></p>
     
 ![Email](https://img.shields.io/badge/Mail.Ru-2CA5E0?style=for-the-badge&logo=Mail.Ru&logoColor=yellow)
-
-<a href='https://t.me/dmsysoev'>Telegram</a>
-
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![HH.ru](https://img.shields.io/badge/HH-HeadHunter-red?style=for-the-badge)
+![GDrive](https://img.shields.io/badge/GDrive-green?style=for-the-badge&logo=GoogleDrive&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white)
 
-<a href=''>HeadHunter</a>
-
-![HH.ru](https://img.shields.io/badge/HH-HeadHunter-red)
-
+<div align='center'>
+    <h2>Last quote</h2>
+    
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
