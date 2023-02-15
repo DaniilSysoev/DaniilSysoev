@@ -11,7 +11,7 @@
 <hr>
 <h4>Education</h4>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=HSE+ITCS+studet)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=HSE+ITCS+student)](https://git.io/typing-svg)
 
 <p>I am studying at the Higher School of Economics on the program Infocommunication Technologies and Communication Systems in my second year of bachelor's degree</p>
 <p>Of course, my main specialization is more engineering with communication side but I prefer to self-study programming</p>
