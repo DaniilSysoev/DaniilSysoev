@@ -2,8 +2,8 @@
     <h3>Hello, world!</h3>
     <hr>
     <img src='https://media2.giphy.com/media/3pZipqyo1sqHDfJGtz/giphy.gif?cid=ecf05e47fpeao467j72exq35qrbeyny9yw2atb7vynydgvqc&rid=giphy.gif&ct=g'>
-    <h4>My name is Daniil and I'm back-end developer</h4>
 </div>
+<h4>My name is Daniil and I'm back-end developer</h4>
 <p>:sparkles:Welcome to my page on GitHub.<br>:mag:So, you can find out some information about my portfolio</p>
 <p>I'm living and studing in Russia and just enjoy my life<br>
 :information_desk_person:So, I will talk about my life and activity of student programmer</p>
