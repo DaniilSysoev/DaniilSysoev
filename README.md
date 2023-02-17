@@ -5,8 +5,8 @@
 </div>
 <h4>My name is Daniil and I'm back-end developer</h4>
 <p>:sparkles:Welcome to my page on GitHub.<br>:mag:So, you can find out some information about my portfolio</p>
-<p>I'm living and studing in Russia and just enjoy my life<br>
-:information_desk_person:So, I will talk about my life and activity of student programmer</p>
+<p>:earth_africa:I'm living and studing in Russia and just enjoy my life<br>
+:information_desk_person:So, I will talk about my life and activity as student programmer</p>
 <h3 align='center'>Let's start</h3>
 <hr>
 <h4>Education</h4>
@@ -39,9 +39,13 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<p>And some achievements from CodeWars where I play from time to time</p>
+<p>And some achievements from <b>CodeWars</b> where I play from time to time</p>
 
 [![codewars](https://www.codewars.com/users/dinl/badges/large)](https://www.codewars.com/users/dinl)
+
+<p>Also not only CodeWars but <b>LeetCode</b><br>Yeah, I'm in progress and everything is ahead</p>
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dinl&theme=dark)](https://github.com/dinl/leetcode-stats)
 
 <p>So, at my university I take a little bit skills in Microsoft office and now as my hobbie I really love to design slides in PowerPoint. What about Excel at course of visualisation data in Excel we created a dashboard with statistic about phone using from Rosstat. And now we study creating of communicating systems and visualise data in Colab\Jupyter</p>
 
