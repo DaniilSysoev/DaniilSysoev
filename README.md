@@ -85,3 +85,8 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
+<div align='end'>
+
+![](https://komarev.com/ghpvc/?username=DaniilSysoev)
+
+</div>
